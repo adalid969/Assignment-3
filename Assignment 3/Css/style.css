@@ -1,0 +1,104 @@
+body {  /**Main body **/
+    font-family: "High Tower Text", fantasy;  /**Font type for all page **/
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    font-size: 24px;
+}
+
+
+/** Poster Class style**/
+.poster {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color:dimgrey;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 50px;
+}
+/**h1 to h6 style **/
+h1 {  /**terminator 2 title **/
+    color: darkred;
+    font-size: 68px;
+    margin-bottom: 20px;
+}
+
+
+h2 {  /**judgment day subtitle **/
+    color: aliceblue;
+    font-size: 24px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+h3 {
+    color: aliceblue;
+    font-size: 7px;
+    margin-bottom: 2px;
+    line-height: 1.1;
+    margin-top: 2px;
+}
+
+h4 {
+    color: aliceblue;
+    font-size: 8px;
+    margin-bottom: 2px;
+    line-height: 1.1;
+    margin-top: 3px;
+}
+
+h5 {
+    color: aliceblue;
+    font-size: 6px;
+    margin-bottom: 2px;
+    line-height: 1.6;
+    margin-top: 2px;
+}
+
+h6 {
+    color: aliceblue;
+    font-size: 7px;
+    margin-bottom: 2px;
+    line-height: 1.2;
+    margin-top: 2px;
+}
+
+h7 {
+    color: aliceblue;
+    font-size: 7px;
+    margin-bottom: 2px;
+    line-height: 1.2;
+    margin-top: 2px;
+}
+
+h8 {
+    color: aliceblue;
+    font-size: 7px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    line-height: 1.1;
+    margin-top: 1px;
+}
+/**Size of Poster IMG**/
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+/**P style use along and mixed with h1 to h6**/
+p {
+    color: aliceblue;
+    font-size: 7px;
+    line-height: 1.1;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+a{  /**The link movie trailer requested  style**/
+    color: black;
+    font-size: 7px;
+    line-height: 1.1;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
